@@ -1,0 +1,11 @@
+C:\vs\Entegrator\Entegrator\bin\x64\Debug\Entegrator.exe.config
+C:\vs\Entegrator\Entegrator\bin\x64\Debug\Entegrator.exe
+C:\vs\Entegrator\Entegrator\bin\x64\Debug\Entegrator.pdb
+C:\vs\Entegrator\Entegrator\bin\x64\Debug\Entegrator.xml
+C:\vs\Entegrator\Entegrator\obj\x64\Debug\Entegrator.vbprojResolveAssemblyReference.cache
+C:\vs\Entegrator\Entegrator\obj\x64\Debug\Entegrator.mainform.resources
+C:\vs\Entegrator\Entegrator\obj\x64\Debug\Entegrator.Resources.resources
+C:\vs\Entegrator\Entegrator\obj\x64\Debug\Entegrator.vbproj.GenerateResource.Cache
+C:\vs\Entegrator\Entegrator\obj\x64\Debug\Entegrator.exe
+C:\vs\Entegrator\Entegrator\obj\x64\Debug\Entegrator.xml
+C:\vs\Entegrator\Entegrator\obj\x64\Debug\Entegrator.pdb
